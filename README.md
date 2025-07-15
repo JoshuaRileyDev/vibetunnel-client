@@ -1,5 +1,7 @@
 # VibeTunnel TypeScript Client
 
+Please not that this is not an official client, we are not affiliated with VibeTunnel at all
+
 A comprehensive TypeScript/JavaScript client library for [VibeTunnel](https://github.com/amantus-ai/vibetunnel) - the innovative macOS application that transforms any browser into a terminal for remote access and AI agent monitoring.
 
 ## Features
